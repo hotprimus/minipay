@@ -1,0 +1,6 @@
+build/
+bin/
+server.log
+*.o
+*.d
+core
